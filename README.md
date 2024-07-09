@@ -1,5 +1,2 @@
 # Systeme_de_Gestion_de_TO-DO_List
-# AHAMRI OUSSAMA 
-# AATORE OMAR 
-# TADILI AYA 
-# BOUJIDI ASMAE 
+ 
